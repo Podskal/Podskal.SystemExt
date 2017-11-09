@@ -1,0 +1,6 @@
+E:\WORK\PROJECTS\SystemExt\SystemExt\Podskal.SystemExt\bin\Debug\netstandard1.4\Podskal.SystemExt.deps.json
+E:\WORK\PROJECTS\SystemExt\SystemExt\Podskal.SystemExt\obj\Debug\netstandard1.4\Podskal.SystemExt.AssemblyInfo.cs
+E:\WORK\PROJECTS\SystemExt\SystemExt\Podskal.SystemExt\bin\Debug\netstandard1.4\Podskal.SystemExt.dll
+E:\WORK\PROJECTS\SystemExt\SystemExt\Podskal.SystemExt\bin\Debug\netstandard1.4\Podskal.SystemExt.pdb
+E:\WORK\PROJECTS\SystemExt\SystemExt\Podskal.SystemExt\obj\Debug\netstandard1.4\Podskal.SystemExt.dll
+E:\WORK\PROJECTS\SystemExt\SystemExt\Podskal.SystemExt\obj\Debug\netstandard1.4\Podskal.SystemExt.pdb
