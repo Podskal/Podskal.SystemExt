@@ -18,7 +18,7 @@ namespace Podskal.SystemExtTests.LinqExt
             // When Then
             Assert.Throws<ArgumentNullException>(
                 () => 
-                    first.ZipStrict(second, zipFunc).ToList());
+                    first.ZipStrict(second, zipFunc).ToList()); 
         }
     }
 }
